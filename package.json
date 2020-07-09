@@ -1,0 +1,23 @@
+{
+  "name": "pac-man",
+  "version": "1.0.0",
+  "description": "Proyect javascript Pac-Man",
+  "main": "appPac.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christiano0407/Pac-Man.git"
+  },
+  "keywords": [
+    "javascript",
+    "pac-man"
+  ],
+  "author": "Chris Velázquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Christiano0407/Pac-Man/issues"
+  },
+  "homepage": "https://github.com/Christiano0407/Pac-Man#readme"
+}
