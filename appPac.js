@@ -63,4 +63,24 @@ document.addEventListener(`DOMContentLoaded`, () => {
   }
   createBoard()
 
+
+  /* #create character */
+ /*  Draw pacman */
+ let pacmanCurrentIndex = 490
+ squares[pacmanCurrentIndex].classList.add(`pac-man`)
+  //get the coordinates of pacman on the grid with X and Y axis
+  // function getCoordinates(index) {
+  //   return [index % width, Math.floor(index / width)]
+  // }
+
+  // console.log(getCoordinates(pacmanCurrentIndex))
+
+  //move pacman
+
+  function movePacman(e) {
+      
+  }
+
+
+
 })
